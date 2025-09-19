@@ -24,9 +24,8 @@ algebrapassed = True
 hisorypassed = True
 
 # Problem 1
-Name = marquise
+Name = 'marquise'
 
-age = 15
+age = '15'
 
-print("hello my name is" + name + "i am" + age "years old")
-
+print ('hello my name is' + name + 'i am' + age 'years old')
