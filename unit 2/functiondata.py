@@ -39,6 +39,7 @@
 def calculate():
     length = input('please enter a number: ')
     width = input('please enter another number: ')
-    height = input('please enter one more number')
-    print(int(length) * int(width) *int(height))
+    height = input('please enter one more number:')
+    print(int(length) * int(width) * int(height))
 
+calculate()
