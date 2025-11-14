@@ -23,10 +23,12 @@ print(30/ 232)
 
 # 4. Explain the difference between the = operator and the == operator.
 # Please write your response in complete sentences.
-' the difference between the = operator and the == perator are the different opperators '
+' the difference between the = operator and the == perator are the different opperator families '
 # 5. Write code that takes a user’s input (as a string), 
 # casts it to a float, and prints the result multiplied by 2.
-input
+#number = input('please enternumber as a string)
+#newData = float(number)
+#print(newData * 2)
 
 # 6. What is the difference between a parameter and an argument?
 # Please write your response in complete sentences.

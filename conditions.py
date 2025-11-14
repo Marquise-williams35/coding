@@ -44,7 +44,7 @@ def positivenegativecheck(number):
     elif number >= 0:
         print('this number is positive')
 
-positivenegativecheck(6)
+positivenegativecheck(-6)
 
 def gradescore(grade):
     if grade >=90:
@@ -56,4 +56,4 @@ def gradescore(grade):
     elif grade <= 60:
         print('you are failing')
 
-gradescore(70)
+gradescore(40)
