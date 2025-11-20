@@ -9,7 +9,7 @@ def ageCheck():
         print('sorry, ur not old enough to buy gta 6')
     else:
         print(' Enjoy ya gta 6 twin')
-ageCheck()
+
 
 #savedPasswrd = 'MarDaGoat35'
 #userPasswrd = input('please enter your password')

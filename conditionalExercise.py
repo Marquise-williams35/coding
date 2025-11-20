@@ -5,7 +5,7 @@ def ageChecker(age):
     elif age <=18:
         print('you cannot vote')
 
-ageChecker(50)
+
 
 #question 2
 def maxNumber():
@@ -25,4 +25,4 @@ def movieTicketprice(age):
         print('price= 20.00')
     elif age >=55:
         print('price= 10.00')
-movieTicketprice(60)
+movieTicketprice(27)
