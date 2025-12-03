@@ -18,7 +18,7 @@ def tf():
             print('great job')
             break
 
-
+tf()
 
 #looping through strings
 #word = 'python'
