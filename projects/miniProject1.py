@@ -29,7 +29,7 @@ def NFLquiz():
     print('Question 4: What quarterback has the most passin yards as of week 13?')
     print("A: Drake maye","B: Dak Prescott","C: Lamar Jackson")
     answer = input()
-    if answer == 'a':
+    if answer == 'b':
         score +=1
         print('correct')
     else:
