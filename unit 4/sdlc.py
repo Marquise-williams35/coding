@@ -14,7 +14,7 @@ def signup():
     else:
         print('welcome to tiktok')
         tt_standard.append(usrAge)
-#signup()
+signup()
 
 #step 1:
 #let users graph points from a equation
@@ -44,4 +44,4 @@ def add():
         sum += numX
         print(sum)
 
-add()
+#add()

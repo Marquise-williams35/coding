@@ -14,7 +14,7 @@ def maxNumber():
     c = int(input('please enter one more number:'))
     hiNumber = max(a,b,c)
     print(hiNumber)
-
+maxNumber()
 #question 3
 def movieTicketprice(age):
     if age <=13:
@@ -25,4 +25,4 @@ def movieTicketprice(age):
         print('price= 20.00')
     elif age >=55:
         print('price= 10.00')
-movieTicketprice(27)
+#movieTicketprice(27)
